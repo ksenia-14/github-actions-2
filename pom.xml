@@ -149,4 +149,12 @@
 		</plugins>
 	</build>
 
+	<distributionManagement>
+		<repository>
+			<id>github</id>
+			<name>GitHub Packages</name>
+			<url>https://maven.pkg.github.com/ksenia-14/github-actions-2</url>
+		</repository>
+	</distributionManagement>
+
 </project>
